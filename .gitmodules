@@ -1,0 +1,4 @@
+[submodule "india"]
+	path = india
+	url = https://github.com/MunwarMMR/explore_india
+	branch = master
