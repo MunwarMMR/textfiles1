@@ -3,15 +3,7 @@ this is a content to be tested
 this is a copy of Master Branch
 
 4
-down vote
-Let's try to take an example and understand:
-
-I have a branch, say master, pointing to X <commit-id>, and I have a new branch pointing to Y <sha1>.
-munwar shaik
-Where Y <commit-id> = <master> branch commits - few commits
-
-Now say for Y branch I have to gap-close the commits between the master branch and the new branch. Below is the procedure we can follow:
-
+Jan 15, 2013 - First you should undo your cherry-pick, try to run this git cherry-pick --abort. Second ... A more understandable way to reset after a failed cherry-pick/merge is to use git reset --merge – Pylinux Oct 4 '13 at 17:54 ...
 Step 1:
 
 
