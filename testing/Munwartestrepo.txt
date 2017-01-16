@@ -13,3 +13,12 @@ Where Y <commit-id> = <master> branch commits - few commits
 Now say for Y branch I have to gap-close the commits between the master branch and the new branch. Below is the procedure we can follow:
 
 Step 1:
+
+
+I have a branch, say master, pointing to X <commit-id>, and I have a new branch pointing to Y <sha1>.
+
+Where Y <commit-id> = <master> branch commits - few commits
+
+Now say for Y branch I have to gap-close the commits between the master branch and the new branch. Below is the procedure we can follow:
+
+Step 1:
